@@ -1,0 +1,6 @@
+notebook
+ipywidgets
+tqdm
+python-dotenv
+aiogram # Asynchronous input output Telegram
+openai
