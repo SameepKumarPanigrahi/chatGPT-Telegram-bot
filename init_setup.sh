@@ -5,4 +5,4 @@ echo [$(date)]: "activate env"
 source activate ./env
 echo [$(date)]: "installing the requirements" 
 pip install -r requirements.txt
-echo [$(date)]: "END"
+echo [$(date)]: "END" 
